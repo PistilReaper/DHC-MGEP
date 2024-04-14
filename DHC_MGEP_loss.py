@@ -720,6 +720,3 @@ def gep_simple(host_population, plasmid_population, toolbox, n_generations=100, 
     output_hal.close()
 
     return host_population, logbook
-
-
-__all__ = ['gep_simple', 'plasmid_generate', 'count_p_functions', 'evaluate', 'dimensional_verification']

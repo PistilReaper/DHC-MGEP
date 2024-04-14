@@ -7,4 +7,4 @@ Run Automatic_differentiation.py
 
 ## Test the framework
 
-Run test1 and test2 notebook.
+Run notebook test1 and test2.
